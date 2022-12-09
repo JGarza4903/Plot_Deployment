@@ -5,7 +5,7 @@ The purpose of this analysis was to visualize the results of a study performed b
 for a substutute on foods that we eat. Each participant was assigned an ID number and will be able to view the website we created to see their results on three 
 seperate charted areas.
 
-[Dashboard](
+[Dashboard](https://github.com/JGarza4903/Plot_Deployment/blob/main/dashboard.png)
 
 ## Analysis
 The study shows that more organisms will grow the less frequent the wash of the bellybutton is performed. The participants with the higher bacteria count will be 
