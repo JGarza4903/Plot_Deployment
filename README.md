@@ -1,5 +1,7 @@
 # Plot_Deployment
 
+To view the website, please [click here!](https://jgarza4903.github.io/Plot_Deployment/)
+
 ## Overview
 The purpose of this analysis was to visualize the results of a study performed by a start up company that researches microbacterial organisms on the human body 
 for a substutute on foods that we eat. Each participant was assigned an ID number and will be able to view the website we created to see their results on three 
